@@ -64,7 +64,7 @@ body
     font-weight: bold;
 }
 
-img[src="dash.png"]
+img[src="images/dash.png"]
 {
     height: 35px;
     width: 35px;
@@ -103,19 +103,19 @@ img[src="dash.png"]
     padding: 10px 20px;
 }
 
-img[src="search.png"]
+img[src="images/search.png"]
 {
     padding-right: 20px;
     width: 40px;
     height: 40px;
 }
 
-img[src="bell.png"]
+img[src="images/bell.png"]
 {
     padding: 10px 30px 0 80px;
 }
 
-img[src="p1.png"]
+img[src="images/p1.png"]
 {
     padding-right: 10px;
 }
